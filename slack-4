@@ -2443,3 +2443,6 @@ background:#222222 !important}
 .p-threads_flexpane__separator_count {
     margin-right: 12px;
     color: #a0a0a0;}
+.p-degraded_list__loading {
+    background: #222222;
+}
